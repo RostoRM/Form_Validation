@@ -19,6 +19,7 @@ body {
   justify-content: center;
   overflow: hidden;
 }
+
 h1 {
   font-family: 'Rampart One', cursive;
   font-size: 2.5rem;
@@ -86,6 +87,7 @@ button {
   text-transform: uppercase;
   color: #000;
   border: 3px solid;
+  border-radius: 5px;
   height: 50px;
   width: 100%;
   margin-top: 15px;
